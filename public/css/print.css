@@ -41,15 +41,15 @@ body {font-family: Arial, Helvetica,sans-serif;}
 }
 
 #details #phone {
-	background: url(images/phone.jpg) no-repeat;
+	background: url(../images/phone.jpg) no-repeat;
 }
 
 #details #emailside {
-	background: url(images/email.jpg) no-repeat;
+	background: url(../images/email.jpg) no-repeat;
 }
 
 #details #address {
-	background: url(images/address.jpg) no-repeat;
+	background: url(../images/address.jpg) no-repeat;
 }
 
 #top {

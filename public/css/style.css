@@ -16,7 +16,7 @@ Version: 1.1
 ------------------------------------------------------------
 */
 
-body {height:100%;margin:0px; padding:0px; background:transparent url(images/bg.jpg) repeat-y fixed center center; font-family: Arial, Helvetica,sans-serif;}
+body {height:100%;margin:0px; padding:0px; background:transparent url(../images/bg.jpg) repeat-y fixed center center; font-family: Arial, Helvetica,sans-serif;}
 
 #container {
 	width:960px;
@@ -57,7 +57,7 @@ a img {
 }
 
 #frame {
-	background:url(images/frame.jpg) no-repeat;
+	background:url(../images/frame.jpg) no-repeat;
 	width:171px;
 	height:214px;
 	margin:35px 0px 0px 0px;
@@ -79,15 +79,15 @@ a img {
 }
 
 #details #phone {
-	background: url(images/phone.jpg) no-repeat;
+	background: url(../images/phone.jpg) no-repeat;
 }
 
 #details #emailside {
-	background: url(images/email.jpg) no-repeat;
+	background: url(../images/email.jpg) no-repeat;
 }
 
 #details #address {
-	background: url(images/address.jpg) no-repeat;
+	background: url(../images/address.jpg) no-repeat;
 }
 
 /*
@@ -132,19 +132,19 @@ a img {
 }
 
 #download {
-	background:url(images/disk.jpg) no-repeat 0px 9px;
+	background:url(../images/disk.jpg) no-repeat 0px 9px;
 }
 
 #mail {
-	background:url(images/mail.jpg) no-repeat 0px 9px;
+	background:url(../images/mail.jpg) no-repeat 0px 9px;
 }
 
 #print {
-	background:url(images/printer.jpg) no-repeat 0px 9px;
+	background:url(../images/printer.jpg) no-repeat 0px 9px;
 }
 
 #photo {
-	background:url(images/image.jpg) no-repeat 0px 9px;
+	background:url(../images/image.jpg) no-repeat 0px 9px;
 }
 
 /*
@@ -154,7 +154,7 @@ a img {
 */
 
 h1 {
-	background: url(images/gray-trans.png) no-repeat;
+	background: url(../images/gray-trans.png) no-repeat;
 	height:52px;
 	width:369px;
 	left:-34px;
@@ -167,12 +167,12 @@ h1 {
 	margin-top:25px;
 }
 
-.blue { background: url(images/blue-trans.png) no-repeat; }
-.orange { background: url(images/orange-trans.png) no-repeat; }
-.pink { background: url(images/pink-trans.png) no-repeat; }
-.lime { background: url(images/lime-trans.png) no-repeat; }
-.red { background: url(images/red-trans.png) no-repeat; }
-.purple { background: url(images/purple-trans.png) no-repeat; }
+.blue { background: url(../images/blue-trans.png) no-repeat; }
+.orange { background: url(../images/orange-trans.png) no-repeat; }
+.pink { background: url(../images/pink-trans.png) no-repeat; }
+.lime { background: url(../images/lime-trans.png) no-repeat; }
+.red { background: url(../images/red-trans.png) no-repeat; }
+.purple { background: url(../images/purple-trans.png) no-repeat; }
 
 hr {
 	border:0 none;
