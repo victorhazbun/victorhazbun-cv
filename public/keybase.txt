@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/victorhazbun
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://victorhazbun.ninja
+  * I am victorhazbun (https://keybase.io/victorhazbun) on keybase.
+  * I have a public key with fingerprint 0227 C22C 5096 83D9 3733  9127 6F98 16ED 5F84 F675
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01019ba40f35d85f73ff987831dfd2440cff3f201cc44cd98b410951c16cf1e9acf40a",
+            "fingerprint": "0227c22c509683d9373391276f9816ed5f84f675",
+            "host": "keybase.io",
+            "key_id": "6f9816ed5f84f675",
+            "kid": "01019ba40f35d85f73ff987831dfd2440cff3f201cc44cd98b410951c16cf1e9acf40a",
+            "uid": "00483eee179c9711f8b4d6d5e85ec319",
+            "username": "victorhazbun"
+        },
+        "service": {
+            "hostname": "victorhazbun.ninja",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1472856969,
+    "expire_in": 157680000,
+    "prev": "8b531ae1d766e1d6c55e30ffe4f85c75e0ab190e262558e57a3f4cf28d5a07d0",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbSBRRGF51rZQkKSF7MGm6g+U5M3POnNnoxRYKipINEivZnTlzjk7a
+zLo7u10WS2ixfKig0IgudC+JopsUSWQZBAlZECUoRUQ3ooIgulDYGau3HjsP53D+
+//u+//t//jtFeYHCnIGHRcMl3UUwp//WkVSg5l5ee0YyXWuTFMpIjWz0YU0WS3rR
+RtuSQhKAAOqmoQKuIIsgrimc60QjCrS4JasqoJwrXAaQUlWllk5MFQIdQQox5ZDp
+BuUqMKQKidtOPUvEE7bj+bKyrFFZpgjomCiWrmiKokNZw0IcYmYhTlSONSSIDW7S
+ZwhzppFk821XxMQnOmrvH/j/7Dv1Ww6oRGGMQU2nugYhF3gLW4gRxKgCdR+YZAnH
+WM8EOm1Tz000GJvNlCO1VEgiI0LMH67fzT9Q8x3bWeeXiydcz6Vuk8g3eF485NO9
+TXEfv4GZ0T9KUdN2LDFQQUizRNJ2HSkEBZJ6ti8NVU0mCOtYr5DYxridYFHbRyAN
+EyCOX4alhSQxkQINBi0NY3FjihBTAOdM5QRRDTFgmFAHTMYyQoQhzVC4SrlMLGQA
+zQKS31uz40ohVdg06oVk0q53DC+VYFLL7d61wUBOYWBMfq6/aIHCguK/6/di1tiR
++LX9W0/WziluW1lT1dY5+XMIP0jtvDp3d8/ewZWD099fCO962vtiSlmd3Eoxm7pm
+uO3AzdipaOndjz+/vYxPmXTN7T7OzXZMztRO7S/f6Y2c5+HK/Ex2QkdBV6bJta6c
+BvjxzNyleyLll68vWPRh5ERp1Y1tfVtXy3vLahe2lq2aEXSPrdnWXDbkvSHVS9xP
+JXXhyHTyvPpKj0t731Yp3Qefh4uDs39MjJzdvuPwhmnB8nKYrgyOO437QwUXdrze
+kqV0cUdzZNmXR/cP3Wz/PvHoiq/7Yu8i40vPDuQ0Ls/uuti3oK6r88mlyKpYuPWk
+tj4bA10bF857lT/+2dCNc7m/AEzaOok=
+=Mq+E
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/victorhazbun
+
+==================================================================
