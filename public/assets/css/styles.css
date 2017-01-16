@@ -413,6 +413,15 @@ iframe {
   color: #999;
 }
 /* Education section */
+.donate .item {
+  margin-bottom: 30px;
+}
+.donate .item .title {
+  font-size: 16px;
+  margin-top: 0;
+}
+
+/* Education section */
 .education .item {
   margin-bottom: 30px;
 }
